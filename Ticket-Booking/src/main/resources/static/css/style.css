@@ -1,0 +1,8 @@
+.backimg {
+	background: url("../img/ticket_booking.jpg");
+	height: 100%;
+	width: 100%;
+	background-repeat: no-repeat;
+	position: fixed;
+	background-size: cover;
+}
